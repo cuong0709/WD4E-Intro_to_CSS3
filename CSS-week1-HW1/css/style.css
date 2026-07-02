@@ -4,20 +4,20 @@ body{
 }
 
 header{
-    background-color:#D9EAF7;
+    background-color: lightblue;
 }
 
 nav{
-    background-color:#B8D8E8;
+    background-color: lightgray;
 }
 
 main{
-    background-color:#FFFFFF;
+    background-color:white;
     font-size:18px;
 }
 
 footer{
-    background-color:#C7F2C4;
+    background-color:lightgreen;
 }
 
 li{
